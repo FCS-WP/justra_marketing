@@ -44,7 +44,7 @@
                 {
                     "slug": "text-link",
                     "name": "Link",
-                    "color": "#04BBE8"
+                    "color": "#fc4f48"
                 },
                 {
                     "slug": "text-hover",
@@ -64,7 +64,7 @@
                 {
                     "slug": "text-link-3",
                     "name": "Accent 3",
-                    "color": "#04BBE8"
+                    "color": "#fc4f48"
                 },
                 {
                     "slug": "text-hover-3",
@@ -92,7 +92,7 @@
                 {
                     "colors": [
                         "#FFFFFF",
-                        "#04BBE8"
+                        "#fc4f48"
                     ],
                     "slug": "bg-and-link",
                     "name": "Background and link color"
@@ -133,8 +133,8 @@
             ]
         },
         "layout": {
-            "contentSize": "850px",
-            "wideSize": "1290px"
+            "contentSize": "820px",
+            "wideSize": "1260px"
         },
         "custom": {
             "spacing": {

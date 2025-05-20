@@ -1,0 +1,16 @@
+.tp_header{
+    .sc_layouts_cart_items_short{
+        background: $base-color;
+    }
+}
+#tp_footer{
+    .contacts_logo{
+        width: 130px;
+    }
+}
+
+.woocommerce-Price-amount.amount bdi{
+    color: $base-color
+}
+
+/* Page */
